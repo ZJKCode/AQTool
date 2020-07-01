@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AQTool_Example' do
+  pod 'AQTool', :path => '../'
+
+  target 'AQTool_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
