@@ -1,0 +1,22 @@
+{
+  "name": "AQTool",
+  "version": "0.1.0",
+  "summary": "A short description of AQTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/k721684713@163.com/AQTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "k721684713@163.com": "zhangjikuan@winzct.com"
+  },
+  "source": {
+    "git": "https://github.com/k721684713@163.com/AQTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AQTool/Classes/**/*"
+}

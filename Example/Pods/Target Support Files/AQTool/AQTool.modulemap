@@ -1,0 +1,6 @@
+framework module AQTool {
+  umbrella header "AQTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

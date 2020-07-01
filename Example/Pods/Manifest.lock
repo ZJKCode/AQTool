@@ -1,0 +1,27 @@
+PODS:
+  - AQTool (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - AQTool (from `../`)
+  - FBSnapshotTestCase (~> 2.1.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  AQTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AQTool: 3878a5cbf483abc48c5193241ff3f3888b966897
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 92b2d4104bd445605f48ebf09a071beddc6d58c4
+
+COCOAPODS: 1.5.3
